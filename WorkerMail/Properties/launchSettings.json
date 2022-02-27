@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WorkerMail": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
